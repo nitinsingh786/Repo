@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 764F-2667
+
+ Directory of C:\Users\NitinSingh\Desktop\gitproject
+
+25-06-2017  04:03 PM    <DIR>          .
+25-06-2017  04:03 PM    <DIR>          ..
+25-06-2017  04:03 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  806,545,285,120 bytes free
